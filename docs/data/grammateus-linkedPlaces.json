@@ -372,7 +372,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Receipt, Rent<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>12. Apr. 176"
@@ -2042,7 +2042,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>6. Okt. 68"
@@ -2305,7 +2305,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter, Order to Pay<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        21. Dez. 261 (Jahr unsicher),<br/>\n                        21. Dez. 312 (Jahr unsicher)"
@@ -2330,7 +2330,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Enteuxis<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -4081,7 +4081,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>256 - 248 v.Chr."
@@ -5279,7 +5279,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>19. Sept. 251 v.Chr."
@@ -6525,7 +6525,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Located</b><br/>Apollonopolis<br/><br/><b>Date</b><br/>30. Sept. 222 v.Chr."
@@ -7440,7 +7440,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>2. Hälfte III"
@@ -7753,7 +7753,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -7779,7 +7779,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III (?)"
@@ -8003,7 +8003,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -8069,7 +8069,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -8131,7 +8131,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -8157,7 +8157,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -8296,7 +8296,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II - III"
@@ -8738,7 +8738,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>ca. 57"
@@ -8871,7 +8871,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Announcement, Edict<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>19"
@@ -8938,7 +8938,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Receipt, Tax<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>1. Aug. 154"
@@ -9553,7 +9553,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Receipt, Rent<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>20. Juni 156"
@@ -9888,7 +9888,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Cheirographon, Homologia (EE)<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>29. Dez. 44"
@@ -9946,7 +9946,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Receipt, Tax<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>29. März 188"
@@ -10120,7 +10120,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>41 - 54"
@@ -10306,7 +10306,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, Report, Abstract<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        nach 117"
@@ -11729,7 +11729,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -11754,7 +11754,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -12148,7 +12148,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -14921,7 +14921,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Announcement, Programma<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>3. Nov. 182"
@@ -15268,7 +15268,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter, Recommendation<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>6. Juli 51 v.Chr."
@@ -16510,7 +16510,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III - IV"
@@ -16609,7 +16609,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>spätes III"
@@ -16703,7 +16703,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -16810,7 +16810,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Anfang II"
@@ -16876,7 +16876,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Petition<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>115 - 110 v.Chr."
@@ -17098,7 +17098,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -17310,7 +17310,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>frühes I"
@@ -17336,7 +17336,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>I - II"
@@ -17362,7 +17362,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>I"
@@ -17388,7 +17388,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>I - II"
@@ -17560,7 +17560,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Receipt, Tax<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>23. Juli 149"
@@ -18513,7 +18513,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, Report, Abstract<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>10. Okt. 159"
@@ -18538,7 +18538,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Receipt<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        28. Okt. - 26. Nov. 102 (Jahr unsicher),<br/>\n                        29. Okt. - 27. Nov. 103 (Jahr unsicher),<br/>\n                        28. Okt. - 26. Nov. 106 (Jahr unsicher)"
@@ -19056,7 +19056,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Prosangelma<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>25. Febr. 250 v.Chr."
@@ -19082,7 +19082,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>ca. 100"
@@ -19107,7 +19107,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>7. Nov. 262"
@@ -19236,7 +19236,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>spätes III - 1. Hälfte IV"
@@ -20628,7 +20628,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -20779,7 +20779,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -23228,7 +23228,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III"
@@ -23947,7 +23947,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>181 - 180 v.Chr. (?)"
@@ -24005,7 +24005,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        28. Juli 94 v.Chr. (Jahr unsicher),<br/>\n                        19. Juli 61 v.Chr. (Jahr unsicher)"
@@ -24711,7 +24711,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter, Recommendation<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -24849,7 +24849,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -25331,7 +25331,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -25397,7 +25397,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II - III"
@@ -25812,7 +25812,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Invitation<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>spätes II"
@@ -27210,7 +27210,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, Report, Abstract<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>10. Okt. 159"
@@ -27313,7 +27313,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Cheirographon<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>5. Apr. 145"
@@ -27411,7 +27411,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Located</b><br/>Apollonopolites Heptakomias, Ägypten<br/><br/><b>Date</b><br/>113 - 120"
@@ -27717,7 +27717,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, Report, Official Proceeding (Roman)<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        ca. 63 - 64"
@@ -27742,7 +27742,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Enteuxis<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        2. Okt. 251 v.Chr. (Jahr unsicher),<br/>\n                        2. Okt. 250 v.Chr. (Jahr unsicher)"
@@ -27767,7 +27767,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>ca. 253 v.Chr."
@@ -28889,7 +28889,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter, Recommendation<br/><br/><b>Located</b><br/>Berenikes Hormos<br/><br/><b>Date</b><br/>\n                        vor 9. März 257 v.Chr."
@@ -29452,7 +29452,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -32359,7 +32359,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Anfang - Mitte III v.Chr."
@@ -32386,7 +32386,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Located</b><br/>Apollonopolites, Ägypten<br/><br/><b>Date</b><br/>14. Jan. 231 v.Chr."
@@ -32652,7 +32652,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        4. Mai 210 v.Chr. (Jahr unsicher),<br/>\n                        29. Apr. 193 v.Chr. (Jahr unsicher)"
@@ -32761,7 +32761,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Petition<br/><br/><b>Located</b><br/>Apollonopolites, Ägypten<br/><br/><b>Date</b><br/>5. Dez. 223 v.Chr."
@@ -33622,7 +33622,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -33648,7 +33648,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -33856,7 +33856,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -34496,7 +34496,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -34784,7 +34784,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Receipt, Tax<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>28. Sept. - 27. Okt. 170"
@@ -35278,7 +35278,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>23. Aug. 1"
@@ -35384,7 +35384,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, Report, Official Proceeding (Roman)<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>94"
@@ -35774,7 +35774,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, Report, Official Proceeding (Roman)<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        nach 24. März 135"
@@ -35881,7 +35881,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Cheirographon<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>5. März 105"
@@ -35983,7 +35983,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Located</b><br/>Apollonopolites Heptakomias, Ägypten<br/><br/><b>Date</b><br/>10. Juli 118"
@@ -37708,7 +37708,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -38090,7 +38090,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -38201,7 +38201,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter, Order to Pay<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -40466,7 +40466,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Enteuxis<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        \n                        vor 23. Juli 256 v.Chr. (Tag unsicher),<br/>\n                        \n                        vor 30. Juli 256 v.Chr. (Tag unsicher)"
@@ -40971,7 +40971,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        vor 13. Sept. 190 v.Chr."
@@ -40998,7 +40998,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Located</b><br/>Apollonopolites, Ägypten<br/><br/><b>Date</b><br/>\n                        ca. 223 - 222 v.Chr."
@@ -41027,7 +41027,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Located</b><br/>Apollonopolis<br/><br/><b>Date</b><br/>224 - 223 v.Chr. (?)"
@@ -41052,7 +41052,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>180 - 179 v.Chr. (?),<br/>169 - 168 v.Chr. (?)"
@@ -41160,7 +41160,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>10. Sept. 135 v.Chr."
@@ -41385,7 +41385,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>I v.Chr."
@@ -42236,7 +42236,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -42484,7 +42484,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Receipt, Rent<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III - IV"
@@ -42510,7 +42510,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>III"
@@ -42651,7 +42651,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -42676,7 +42676,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Invitation<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -42784,7 +42784,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II - III"
@@ -42810,7 +42810,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter, Condolence<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>II"
@@ -43007,7 +43007,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Ende II - Anfang III"
@@ -43032,7 +43032,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Invitation<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte II"
@@ -43182,7 +43182,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>I"
@@ -43280,7 +43280,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Cheirographon<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        10. Juli 148 (Jahr unsicher),<br/>\n                        10. Juli 158 (Jahr unsicher)"
@@ -43424,7 +43424,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        22. März 206 (Jahr unsicher),<br/>\n                        22. März 235 (Jahr unsicher)"
@@ -43978,7 +43978,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, Report, Official Proceeding (Roman)<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        nach 5. Sept. 63"
@@ -44329,7 +44329,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, Report, Abstract<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        nach 17. Mai - 28. Aug. 140"
@@ -44355,7 +44355,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Receipt, Rent<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>24. Mai 286"
@@ -44380,7 +44380,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Synchoresis<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>\n                        nach 20. Febr. 144"
@@ -44406,7 +44406,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Receipt, Tax<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>17. Juni 176"
@@ -44543,7 +44543,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Objective Statement, Announcement, Edict<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>133 - 137"
@@ -45220,7 +45220,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>189 - 190"
@@ -45245,7 +45245,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Enteuxis<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -46117,7 +46117,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -46468,7 +46468,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -47792,7 +47792,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>20. Febr. - 8. März 249 v.Chr."
@@ -50241,7 +50241,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -52342,7 +52342,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List, Account<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>254 v.Chr. (?),<br/>252 - 246 v.Chr. (?)"
@@ -52888,7 +52888,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -53180,7 +53180,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Recording of Information, List<br/><br/><b>Located</b><br/>Lagis<br/><br/><b>Date</b><br/>1. Dez. 162"
@@ -53918,7 +53918,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Cheirographon<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>15. Sept. 217"
@@ -54058,7 +54058,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>Mitte III v.Chr."
@@ -54984,7 +54984,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>ca. 325"
@@ -55891,7 +55891,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter, Order to Pay<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>IV"
@@ -55917,7 +55917,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter, Order to Pay<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>spätes IV"
@@ -55942,7 +55942,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>IV - V"
@@ -55967,7 +55967,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>IV"
@@ -56367,7 +56367,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Transmission of Information, Business Note<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>V - VII"
@@ -56392,7 +56392,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>V"
@@ -56557,7 +56557,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>V"
@@ -56582,7 +56582,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>2. Hälfte V"
@@ -57242,7 +57242,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>VI - VII"
@@ -57347,7 +57347,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>VI"
@@ -57405,7 +57405,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>VI"
@@ -58393,7 +58393,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>VI - VII"
@@ -58418,7 +58418,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>VI"
@@ -58556,7 +58556,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Official Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>VI"
@@ -59182,7 +59182,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Business Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>VI"
@@ -59788,7 +59788,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
+      "coordinates" : [ 29.157504099106227, 34.1739331756946]
     },
     "descriptions" : [ {
       "value" : "<b>Typology</b><br/>Epistolary Exchange, Private Letter<br/><br/><b>Unknown</b><br/><br/><br/><b>Date</b><br/>VI - VII"
