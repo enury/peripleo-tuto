@@ -1,5 +1,5 @@
 {
-  "initial_bounds": [6.122402473572345, 20.23258399144576, 53.448305957560216, 42.603869217180744],
+  "initial_bounds": [38.3, 16.8, 19.5, 52.4],
   "map_style": "./map-style-OSM.json",
   "data": [
     {
@@ -10,12 +10,12 @@
     }
   ],
   "facets": [
-    {"name": "nome", "path": ["properties", "nome"]},
-    {"name": "settlement", "path": ["properties", "settlement"]},
-	{"name": "region", "path": ["properties", "region"]},
-	{"name": "provenance", "path": ["properties", "provenance"]},
-	{"name": "type", "path": ["properties", "type"]},
-	{"name": "subtype", "path": ["properties", "subtype"]},
-	{"name": "variation", "path": ["properties", "variation"]}
+      {"name": "nome", "path": ["properties", "nome"]},
+      {"name": "region", "path": ["properties", "region"]},
+      {"name": "provenance", "path": ["properties", "provenance"]},
+      {"name": "type", "path": ["properties", "type"]},
+      {"name": "subtype", "path": ["properties", "subtype"]},
+      {"name": "variation", "path": ["properties", "variation"]},
+      {"name": "century", "path": ["properties", "centuries"]}
   ]
 }
