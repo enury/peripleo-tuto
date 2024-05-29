@@ -1,21 +1,21 @@
 {
-  "initial_bounds": [-35.63055, 36.22607, 39.46186, 60.81325],
+  "initial_bounds": [38.3, 16.8, 19.5, 52.4],
   "map_style": "./map-style-OSM.json",
   "data": [
     {
       "name": "grammateus",
       "format": "LINKED_PLACES",
-      "src": "./data/grammateus-linkedPlaces.json",
+      "src": "./data/grammateus.lp.json",
       "attribution": "grammateus © <a href=\"https:grammateus.unige.ch\" target=\"_blank\"><i>a typology of documentary papyri</i></a>"
     }
   ],
   "facets": [
-    {"name": "nome", "path": ["properties", "nome"]},
-    {"name": "settlement", "path": ["properties", "settlement"]},
-	{"name": "region", "path": ["properties", "region"]},
-	{"name": "provenance", "path": ["properties", "provenance"]},
-	{"name": "type", "path": ["properties", "type"]},
-	{"name": "subtype", "path": ["properties", "subtype"]},
-	{"name": "variation", "path": ["properties", "variation"]}
+      {"name": "nome", "path": ["properties", "nome"]},
+      {"name": "region", "path": ["properties", "region"]},
+      {"name": "provenance", "path": ["properties", "provenance"]},
+      {"name": "type", "path": ["properties", "type"]},
+      {"name": "subtype", "path": ["properties", "subtype"]},
+      {"name": "variation", "path": ["properties", "variation"]},
+      {"name": "century", "path": ["properties", "centuries"]}
   ]
 }
